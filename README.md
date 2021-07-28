@@ -1,3 +1,2 @@
-# Projects
-This is a test repository for my projects.
-This is the secondary branch.
+# DS Projects
+This is a repository for my data science projects.
